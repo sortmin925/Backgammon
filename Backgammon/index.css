@@ -1,0 +1,27 @@
+/*
+* @Author: 王文宇
+* @Date:   2019-03-14 21:37:14
+* @Last Modified by:   王文宇
+* @Last Modified time: 2019-03-14 23:07:50
+*/
+h1 {
+	color: green;
+	text-align: center;
+}
+
+canvas {
+	display: block;
+	margin: 50px auto;
+	box-shadow: -5px -5px -5px #EFEFEF, 5px 5px 5px #B9B9B9;
+}
+p {
+	text-align: center;
+	font-size: 32px;
+	color: green;
+}
+.check {
+	text-align: center;
+}
+#reset{
+    display: inline;
+}
